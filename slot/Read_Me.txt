@@ -1,1 +1,0 @@
-this is a sample slot game that i made as a small project on my journey of learning python
